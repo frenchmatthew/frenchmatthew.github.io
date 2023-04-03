@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2023-04-02T21:19:13-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Matthew French</title><subtitle>Research Engineer</subtitle><author><name>Matthew French</name></author><entry><title type="html">Coming Soon …</title><link href="http://localhost:4000/posts/2023/04/blog-post-1/" rel="alternate" type="text/html" title="Coming Soon …" /><published>2023-04-03T00:00:00-07:00</published><updated>2023-04-03T00:00:00-07:00</updated><id>http://localhost:4000/posts/2023/04/blog-post-1</id><content type="html" xml:base="http://localhost:4000/posts/2023/04/blog-post-1/">&lt;p&gt;Blog posts are comming soon.&lt;/p&gt;
+
+&lt;h1 id=&quot;heading&quot;&gt;Heading&lt;/h1&gt;
+
+&lt;h1 id=&quot;another-heading&quot;&gt;Another Heading&lt;/h1&gt;
+
+&lt;h2&gt;…&lt;/h2&gt;</content><author><name>Matthew French</name></author><category term="coming soon" /><summary type="html">Blog posts are comming soon.</summary></entry></feed>
